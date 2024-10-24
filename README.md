@@ -1,1 +1,3 @@
-# Cloud-Native-DevOps-with-Kubernetes
+# Well-Architected Framework Applied to Azure Landing Zones and CAF (Cloud Adption Framework)
+
+The Azure WAF is a set of guiding tenets that can be used to improve the quality of a workload. It provides a consistent approach for customers and partners to evaluate architectures and implement design that will scale over time. When combined with the Azure Landing Zoes concept and Cloud Adoption Framework, oranization can create a solid fondationfor their cloud environment, suring they are secure, scalable, and aligned with business objectives.
